@@ -9,12 +9,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1WSiOHsZFSHTGR25gzqp4n5Rlt882bTI-/view?usp=sharing](https://drive.google.com/file/d/1WSiOHsZFSHTGR25gzqp4n5Rlt882bTI-/view?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/hossain1011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hossain1011" height="30" width="40" /></a>
-<a href="https://discord.gg/7111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hossain.bhaiya#7111" height="30" width="40" /></a>
-</p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hossain101199&show_icons=true&locale=en&layout=compact" alt="hossain101199" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hossain101199&show_icons=true&locale=en" alt="hossain101199" /></p>
