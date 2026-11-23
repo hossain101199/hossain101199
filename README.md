@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **fshossain10@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1WSiOHsZFSHTGR25gzqp4n5Rlt882bTI-/view?usp=sharing](https://drive.google.com/file/d/1WSiOHsZFSHTGR25gzqp4n5Rlt882bTI-/view?usp=sharing)
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hossain101199&show_icons=true&locale=en&layout=compact" alt="hossain101199" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hossain101199&show_icons=true&locale=en" alt="hossain101199" /></p>
